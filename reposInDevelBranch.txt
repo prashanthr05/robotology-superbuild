@@ -1,0 +1,13 @@
+GazeboYARPPlugins
+ICUB
+RTF
+WBToolbox
+YARP
+codyco-modules
+iDynTree
+icub-gazebo-wholebody
+icub-tests
+yarp-matlab-bindings
+icub-firmware-shared
+robots-configuration
+
