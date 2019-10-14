@@ -87,7 +87,7 @@ endif()
 # for overwriting the desired branch/tag/commit
 # of the included subprojects of the superbuild
 # Useful for having superbuild "branches"
-include(ProjectsTagsMaster OPTIONAL)
+include(ProjectsTagsDevel OPTIONAL)
 
 #Set CMake policies
 if(NOT CMAKE_VERSION VERSION_LESS 3.0)
