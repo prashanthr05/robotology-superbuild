@@ -10,4 +10,4 @@ ycm_ep_helper(icub-gazebo-wholebody
               REPOSITORY robotology/icub-gazebo-wholebody.git
               TAG master
               COMPONENT dynamics
-              FOLDER robotology)
+              FOLDER src)
